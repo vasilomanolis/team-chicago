@@ -9,8 +9,8 @@ import java.net.URL;
 public class Translator {
 	// private static final String CLIENT_ID = "FREE_TRIAL_ACCOUNT";
 	// private static final String CLIENT_SECRET = "PUBLIC_SECRET";
-	private static final String CLIENT_ID = "vasileios.manolis@gmail.com";
-	private static final String CLIENT_SECRET = "aa71855e80e947c5a73f160e72075529";
+	private static final String CLIENT_ID = "email";
+	private static final String CLIENT_SECRET = "client_secret";
 	private static final String ENDPOINT = "http://api.whatsmate.net/v1/translation/translate";
 
 	/**
