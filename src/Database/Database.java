@@ -28,8 +28,8 @@ public class Database {
 		String driver = "org.postgresql.Driver"; // postgres driver.
 		String url = "jdbc:postgresql://mod-msc-sw1.cs.bham.ac.uk:5432/chicago"; // database
 																					// link
-		String DBusername = "chicago"; // database username
-		String DBpassword = "v74x4mkdhl"; // database password
+		String DBusername = "username"; // database username
+		String DBpassword = "password"; // database password
 		Connection conn = null;
 		PreparedStatement ps = null;
 
